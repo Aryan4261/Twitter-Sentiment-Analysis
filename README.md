@@ -10,12 +10,13 @@ Download link: https://datahack.analyticsvidhya.com/contest/practice-problem-twi
 
 Libraries
 
-pandas
-matplotlib
-seaborn
-scikit-learn
+pandas, 
+matplotlib, 
+seaborn, 
+scikit-learn,
 
 Algorithms
 
 Logistic Regression
+
 Best Model Accuracy: 95.00
